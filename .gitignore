@@ -1,0 +1,7 @@
+.vercel
+.DS_Store
+*.bak
+*.backup
+qa-*.png
+extracted-styles.txt
+head-template.txt

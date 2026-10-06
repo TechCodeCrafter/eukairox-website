@@ -1,0 +1,69 @@
+# Eukairox
+
+## About
+Eukairox is an AI automation agency that builds custom AI agents, data pipelines, voice agents, and automated workflows for small and medium businesses. The company designs, builds, tests, and deploys production automation systems that handle real business operations across every department.
+
+## Core Services
+
+### Data Flows
+Pull from anywhere, transform it, push it anywhere else. Databases, spreadsheets, CRMs, ERPs, email, Slack, webhooks. We connect your tools and make them talk to each other.
+
+### AI and LLM Workflows
+Workflows powered by Claude, GPT, Gemini, or any LLM. Document processing, email writing, classification, scoring, summarization, and content generation wired into real business processes.
+
+### Voice Agents
+AI voice agents that call leads, screen candidates, and handle inbound calls. Real conversational AI for outbound prospecting, candidate screening, and call routing.
+
+### Document Processing
+Extract structured data from PDFs, invoices, receipts, and forms automatically. Route extracted data directly into CRMs, ERPs, or databases. Flag errors and discrepancies.
+
+## Extended Services
+
+### Integrations
+Connect any two pieces of software that have an API. Custom webhooks for real-time triggers. More powerful and cheaper than off-the-shelf automation platforms.
+
+### Autonomous AI Agents
+Agents that make decisions without human input. Multi-agent systems where agents talk to each other. Memory systems that learn from past interactions.
+
+### Communication Automation
+Auto-reply to emails, DMs, WhatsApp, and SMS. AI that handles customer inquiries end to end. Meeting scheduling without human involvement.
+
+### E-commerce and Finance
+Order processing and fulfillment automation. Invoice generation and payment tracking. Inventory alerts and automatic reordering.
+
+### HR and Recruiting
+Automated candidate screening and scoring. Onboarding checklists and task assignment. Performance report generation.
+
+### Marketing
+Social media posting on schedule. Content generation and publishing pipelines. Lead scoring and nurture sequences.
+
+### Monitoring and Alerts
+Watch competitors, news, prices, and social mentions. Alert you when anything changes. Automated responses to triggers.
+
+### Web Data Collection
+Automated data collection from any website on a schedule. Pull pricing, listings, directories, and structured data. Delivered directly to your systems.
+
+### Scheduled Jobs
+Run anything daily, hourly, or weekly. Automated on a schedule without anyone lifting a finger. Reports, syncs, checks, and maintenance tasks.
+
+### Multi-Step Approval Flows
+Someone submits a form, it routes to the right person, they approve, it triggers the next action. End-to-end workflow orchestration.
+
+## How It Works
+1. Free 15-minute workflow audit to map time-consuming processes and estimate savings.
+2. Agent design tailored to specific tools, business rules, and edge cases.
+3. Build and test on real data with visible results before going live.
+4. Deploy and scale with ongoing monitoring and support. Typical timeline: under 4 weeks.
+
+## Key Differentiators
+- Custom-built systems, not templates or generic chatbots
+- Full-stack automation: AI agents, data pipelines, voice bots, document processors, integrations, and more
+- Automates entire departments: support, sales, HR, marketing, finance, operations
+- Integrates with existing business tools (CRMs, helpdesks, spreadsheets, etc.)
+- Per-workflow pricing, not per-seat
+- Pilot-first approach: results proven on real data before commitment
+- No results, no charge guarantee
+
+## Contact
+Website: https://eukairox.com
+Email: uvprajtech@gmail.com
