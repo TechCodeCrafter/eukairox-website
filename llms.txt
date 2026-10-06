@@ -1,69 +1,37 @@
 # Eukairox
 
 ## About
-Eukairox is an AI automation agency that builds custom AI agents, data pipelines, voice agents, and automated workflows for small and medium businesses. The company designs, builds, tests, and deploys production automation systems that handle real business operations across every department.
+Eukairox leases managed AI employees to Ontario service businesses. AI employees answer calls, book appointments and jobs, dispatch and schedule, follow up, request reviews, and handle reporting and admin. Every AI employee is trained on the client's business and supervised by humans at Eukairox. Restaurants are the flagship proof vertical; dental clinics and trades/home services are the current expansion focus.
 
-## Core Services
+## AI Employee Roles
+- AI Receptionist: answers calls, books/intake, transfers urgent items, transcripts and summaries
+- AI Scheduler & Dispatcher: bookings, job scheduling, reminders, reschedules, replacements
+- AI Follow-Up & Reviews: quote/chase follow-up, no-show recovery, review requests, reactivation
+- AI Billing & Reporting: invoice nudges, daily operations summary, KPI alerts
+- AI Admin & Compliance: forms, logs, checklists, renewals, training records
+- AI Operations Coordinator: stock, job status, supplier and recurring-task follow-up
 
-### Data Flows
-Pull from anywhere, transform it, push it anywhere else. Databases, spreadsheets, CRMs, ERPs, email, Slack, webhooks. We connect your tools and make them talk to each other.
+## Pricing
+- AI Receptionist: $499/month (one role)
+- AI Front Office: $1,299/month (receptionist + scheduler/dispatcher + follow-up)
+- AI Operations Team: $2,900/month (full team, dedicated supervisor)
+- Multi-location / multi-branch: custom
+- Pilot: 14-day paid pilot, $499, credited to the first month. Success metric agreed before launch.
+- Guarantee: 3x ROI in 90 days or Eukairox works free until it is reached. Cancel with 30 days notice.
 
-### AI and LLM Workflows
-Workflows powered by Claude, GPT, Gemini, or any LLM. Document processing, email writing, classification, scoring, summarization, and content generation wired into real business processes.
-
-### Voice Agents
-AI voice agents that call leads, screen candidates, and handle inbound calls. Real conversational AI for outbound prospecting, candidate screening, and call routing.
-
-### Document Processing
-Extract structured data from PDFs, invoices, receipts, and forms automatically. Route extracted data directly into CRMs, ERPs, or databases. Flag errors and discrepancies.
-
-## Extended Services
-
-### Integrations
-Connect any two pieces of software that have an API. Custom webhooks for real-time triggers. More powerful and cheaper than off-the-shelf automation platforms.
-
-### Autonomous AI Agents
-Agents that make decisions without human input. Multi-agent systems where agents talk to each other. Memory systems that learn from past interactions.
-
-### Communication Automation
-Auto-reply to emails, DMs, WhatsApp, and SMS. AI that handles customer inquiries end to end. Meeting scheduling without human involvement.
-
-### E-commerce and Finance
-Order processing and fulfillment automation. Invoice generation and payment tracking. Inventory alerts and automatic reordering.
-
-### HR and Recruiting
-Automated candidate screening and scoring. Onboarding checklists and task assignment. Performance report generation.
-
-### Marketing
-Social media posting on schedule. Content generation and publishing pipelines. Lead scoring and nurture sequences.
-
-### Monitoring and Alerts
-Watch competitors, news, prices, and social mentions. Alert you when anything changes. Automated responses to triggers.
-
-### Web Data Collection
-Automated data collection from any website on a schedule. Pull pricing, listings, directories, and structured data. Delivered directly to your systems.
-
-### Scheduled Jobs
-Run anything daily, hourly, or weekly. Automated on a schedule without anyone lifting a finger. Reports, syncs, checks, and maintenance tasks.
-
-### Multi-Step Approval Flows
-Someone submits a form, it routes to the right person, they approve, it triggers the next action. End-to-end workflow orchestration.
+## Industries
+- Flagship proof: Restaurants & Hospitality
+- Expansion focus: Dental & Clinics; Trades & Home Services
+- Also served via fit call: law firms, real estate, professional services, e-commerce, recruitment
 
 ## How It Works
-1. Free 15-minute workflow audit to map time-consuming processes and estimate savings.
-2. Agent design tailored to specific tools, business rules, and edge cases.
-3. Build and test on real data with visible results before going live.
-4. Deploy and scale with ongoing monitoring and support. Typical timeline: under 4 weeks.
-
-## Key Differentiators
-- Custom-built systems, not templates or generic chatbots
-- Full-stack automation: AI agents, data pipelines, voice bots, document processors, integrations, and more
-- Automates entire departments: support, sales, HR, marketing, finance, operations
-- Integrates with existing business tools (CRMs, helpdesks, spreadsheets, etc.)
-- Per-workflow pricing, not per-seat
-- Pilot-first approach: results proven on real data before commitment
-- No results, no charge guarantee
+1. 15-minute fit call: map one workflow and agree the success metric.
+2. Train: AI trained on services, prices, calendar/tools, scripts, and rules. Single role can target 48 hours.
+3. Pilot: 14-day paid pilot, credited to month one.
+4. Supervise: dashboard, call transcripts, weekly numbers, human escalation and tuning by Eukairox.
 
 ## Contact
 Website: https://eukairox.com
-Email: uvprajtech@gmail.com
+Email: praj@eukairox.com
+Phone (live AI demo): +1 (647) 957-2150
+Booking: https://calendly.com/prajva-dev/discovery-call-eukairox
